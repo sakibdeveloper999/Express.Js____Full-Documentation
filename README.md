@@ -45,25 +45,25 @@ This repository includes:
 
 * [05 Middleware in Express.js (Eng).md](https://github.com/sakibdeveloper999/Express.Js____Full-Documentation/blob/main/05%20Middleware%20in%20Express.js%20(Eng).md)
 
-* [06 Templating (Bng).md](YOUR_REPO_URL/06%20Templating%20%28Bng%29.md)
+* [06 Templating (Bng).md](https://github.com/sakibdeveloper999/Express.Js____Full-Documentation/blob/main/06%20Templating%20(Bng).md)
 
-* [06 Templating (Eng).md](YOUR_REPO_URL/06%20Templating%20%28Eng%29.md)
+* [06 Templating (Eng).md](https://github.com/sakibdeveloper999/Express.Js____Full-Documentation/blob/main/06%20Templating%20(Eng).md)
 
-* [07 EJS in Express.js (Bng).md](YOUR_REPO_URL/07%20EJS%20in%20Express.js%20%28Bng%29%20.md)
+* [07 EJS in Express.js (Bng).md](https://github.com/sakibdeveloper999/Express.Js____Full-Documentation/blob/main/07%20EJS%20in%20Express.js%20(Bng)%20.md)
 
-* [07 EJS in Express.js (Eng).md](YOUR_REPO_URL/07%20EJS%20in%20Express.js%20%28Eng%29.md)
+* [07 EJS in Express.js (Eng).md](https://github.com/sakibdeveloper999/Express.Js____Full-Documentation/blob/main/07%20EJS%20in%20Express.js%20(Eng)%20.md)
 
-* [08 Serving static files in Express.js (Bng).md](YOUR_REPO_URL/08%20Serving%20static%20files%20in%20Express.js%20%28Bng%29.md)
+* [08 Serving static files in Express.js (Bng).md](https://github.com/sakibdeveloper999/Express.Js____Full-Documentation/blob/main/08%20Serving%20static%20files%20in%20Express.js%20(Bng).md)
 
-* [08 Serving static files in Express.js (Eng).md](YOUR_REPO_URL/08%20Serving%20static%20files%20in%20Express.js%20%28Eng%29.md)
+* [08 Serving static files in Express.js (Eng).md](https://github.com/sakibdeveloper999/Express.Js____Full-Documentation/blob/main/08%20Serving%20static%20files%20in%20Express.js%20(Eng).md)
 
 ---
 
 ### **09–12: Working with Data**
 
-* [09 Handling form data in Express.js (Bng).md](YOUR_REPO_URL/09%20Handling%20form%20data%20in%20Express.js%20%28Bng%29.md)
+* [09 Handling form data in Express.js (Bng).md](https://github.com/sakibdeveloper999/Express.Js____Full-Documentation/blob/main/09%20Handling%20form%20data%20in%20Express.js%20(Bng).md)
 
-* [09 Handling form data in Express.js (Eng).md](YOUR_REPO_URL/09%20Handling%20form%20data%20in%20Express.js%20%28Eng%29.md)
+* [09 Handling form data in Express.js (Eng).md](https://github.com/sakibdeveloper999/Express.Js____Full-Documentation/blob/main/09%20Handling%20form%20data%20in%20Express.js%20(Eng).md)
 
 * [10 Connecting to Database Express (Bng).md](YOUR_REPO_URL/10%20Connecting%20to%20Database%20Express%20%28Bng%29.md)
 
