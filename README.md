@@ -27,9 +27,9 @@ This repository includes:
 
 * [02 Setting up the Environment (Bng).md](https://github.com/sakibdeveloper999/Express.Js____Full-Documentation/blob/main/02%20Setting%20up%20the%20Environment%20(Bng)%20.md)
 
-* [02 Setting up the Environment (Eng).md](YOUR_REPO_URL/02%20Setting%20up%20the%20Environment%20%28Eng%29.md)
+* [02 Setting up the Environment (Eng).md](https://github.com/sakibdeveloper999/Express.Js____Full-Documentation/blob/main/02%20Setting%20up%20the%20Environment%20(Eng).md)
 
-* [03 Express Routing (Bng).md](YOUR_REPO_URL/03%20Express%20Routing%20%28Bng%29%20.md)
+* [03 Express Routing (Bng).md](https://github.com/sakibdeveloper999/Express.Js____Full-Documentation/blob/main/03%20Express%20Routing%20(Bng)%20.md)
 
 * [03 Express Routing (Eng).md](YOUR_REPO_URL/03%20Express%20Routing%20%28Eng%29.md)
 
