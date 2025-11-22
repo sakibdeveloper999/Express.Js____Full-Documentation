@@ -23,9 +23,9 @@ This repository includes:
 
 * [01 Introduction to Express.js (Bng).md](https://github.com/sakibdeveloper999/Express.Js____Full-Documentation/blob/main/01%20Introduction%20to%20Express.js%20(Bng)%20.md)
 
-* [01 Introduction to Express.js (Eng).md](YOUR_REPO_URL/01%20Introduction%20to%20Express.js%20%28Eng%29%20.md)
+* [01 Introduction to Express.js (Eng).md](https://github.com/sakibdeveloper999/Express.Js____Full-Documentation/blob/main/01%20Introduction%20to%20Express.js%20(Eng)%20.md)
 
-* [02 Setting up the Environment (Bng).md](YOUR_REPO_URL/02%20Setting%20up%20the%20Environment%20%28Bng%29%20.md)
+* [02 Setting up the Environment (Bng).md](https://github.com/sakibdeveloper999/Express.Js____Full-Documentation/blob/main/02%20Setting%20up%20the%20Environment%20(Bng)%20.md)
 
 * [02 Setting up the Environment (Eng).md](YOUR_REPO_URL/02%20Setting%20up%20the%20Environment%20%28Eng%29.md)
 
